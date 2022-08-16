@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="tvTitle">Movie Title</string>
+    <string name="etTitle">Enter movie title here</string>
+    <string name="tvGenre">Genre</string>
+    <string name="etGenre">Enter genre here</string>
+    <string name="tvYear">Year</string>
+    <string name="etYear">Enter year of release here</string>
+    <string name="tvRating">Rating</string>
+    <string-array name="spinnerItems">
+        <item>G</item>
+        <item>PG</item>
+        <item>PG13</item>
+        <item>NC16</item>
+        <item>M18</item>
+        <item>R21</item>
+    </string-array>
+    <string name="insert">INSERT</string>
+    <string name="show">SHOW LIST</string>
+    <string name="filter">SHOW ALL PG-13 MOVIES</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="id">Movie ID</string>
+</resources>
+
